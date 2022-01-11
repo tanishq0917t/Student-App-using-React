@@ -7,3 +7,5 @@ Now when we need to add a placement entry, user will click add button placed at 
 ![Alt Text](https://github.com/tanishq-17102001/Student-App-using-React/blob/main/screenshots/Add%20Form.png?raw=true)\
 Now we will fill the form\
 ![Alt Text](https://github.com/tanishq-17102001/Student-App-using-React/blob/main/screenshots/Filled%20Add%20Form.png?raw=true)\
+Now we will click on add button to add placement entry, if no errors exist entry will be added else errors will be shown.\
+![Alt Text](https://github.com/tanishq-17102001/Student-App-using-React/blob/main/screenshots/Add%20More.png?raw=true)\
