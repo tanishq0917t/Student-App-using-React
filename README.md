@@ -9,3 +9,5 @@ Now we will fill the form\
 ![Alt Text](https://github.com/tanishq-17102001/Student-App-using-React/blob/main/screenshots/Filled%20Add%20Form.png?raw=true)\
 Now we will click on add button to add placement entry, if no errors exist entry will be added else errors will be shown.\
 ![Alt Text](https://github.com/tanishq-17102001/Student-App-using-React/blob/main/screenshots/Add%20More.png?raw=true)\
+Now we will click on "NO" and we can see the updated list of students.
+![Alt Text](https://github.com/tanishq-17102001/Student-App-using-React/blob/main/screenshots/Added.png?raw=true)\
